@@ -27,8 +27,8 @@ export default function Contact() {
               <div>
                 <h3 className="font-medium">Address</h3>
                 <address className="not-italic text-muted-foreground">
-                  Gaya- 804428<br />
-                  Bihar, India
+                JAMUHARI, VILL JAMUHARI POST, KOIL BHUPAT, PS MEHANDIYA, Jamuhari, MEHANDIYA,
+Kaler, Gaya- 804428, Bihar, India
                 </address>
               </div>
             </div>
@@ -102,4 +102,4 @@ export default function Contact() {
       </div>
     </div>
   );
-} 
+}

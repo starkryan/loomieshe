@@ -48,10 +48,11 @@ export default function About() {
           </p>
           <p className="mb-8 text-muted-foreground">
             <strong>Email:</strong> contact@nextzenloom.com<br />
-            <strong>Address:</strong> Gaya- 804428, Bihar, India
+            <strong>Address:</strong> JAMUHARI, VILL JAMUHARI POST, KOIL BHUPAT, PS MEHANDIYA, Jamuhari, MEHANDIYA,
+Kaler, Gaya- 804428, Bihar, India
           </p>
         </div>
       </div>
     </div>
   );
-} 
+}

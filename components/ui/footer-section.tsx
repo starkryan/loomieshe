@@ -5,7 +5,6 @@ import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
 import { Switch } from "@/components/ui/switch"
-import { Textarea } from "@/components/ui/textarea"
 import {
   Tooltip,
   TooltipContent,
@@ -16,7 +15,6 @@ import { Facebook, Instagram, Linkedin, Moon, Send, Sun, Twitter } from "lucide-
 
 function Footerdemo() {
   const [isDarkMode, setIsDarkMode] = React.useState(true)
-  const [isChatOpen, setIsChatOpen] = React.useState(false)
 
   React.useEffect(() => {
     if (isDarkMode) {
@@ -75,7 +73,8 @@ function Footerdemo() {
           <div>
             <h3 className="mb-4 text-lg font-semibold">Contact Us</h3>
             <address className="space-y-2 text-sm not-italic">
-             <p>Gaya, Bihar, India 804428</p>
+             <p>JAMUHARI, VILL JAMUHARI POST, KOIL BHUPAT, PS MEHANDIYA, Jamuhari, MEHANDIYA,
+Kaler, Gaya- 804428, Bihar, India</p>
             </address>
           </div>
           <div className="relative">
